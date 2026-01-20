@@ -4,10 +4,11 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on improving my coding/programming in Python from intermediate to OOP
-- 🌱 I’m currently learning CKA - Certified Kubernetes Administrator 
-- 👯 I’m looking to collaborate on GenAI Langchain Python projects (Frontend/Backend)
-- 🤔 I’m looking for help with improving my Kubernetes experience
+- ⚡ Tech enthusiast with 20 years of working experience in coporate tech industry (I started super young) 
+- 🔭 I’m improving my coding/programming in Python from intermediate to OOP
+- 🌱 I’m CKA - Certified Kubernetes Administrator certified as of Jan 2026
+- ⚡ I'm AWS Solutions Architect Professional certified
+- 👯 I’m looking to collaborate on GenAI projects (Frontend/Backend)
 - 📫 How to reach me: jatin.kumar.gandhi@gmail.com
 
 <!--
